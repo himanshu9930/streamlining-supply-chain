@@ -1,4 +1,4 @@
-# Supply Chain Optimization Project
+# Streamlining Supply Chain Dynamics — Empowering Agriculture, Empowering Efficiency
 
 ## Project and Problem Statement Description
 This project addresses significant inefficiencies in the distribution and fulfillment operations of a major North American seed manufacturer. The main challenges included:
