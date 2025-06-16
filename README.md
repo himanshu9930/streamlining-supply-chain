@@ -1,9 +1,9 @@
 # Streamlining Supply Chain Dynamics — Empowering Agriculture, Empowering Efficiency
 
 ## Project Highlights
-- 🏆 **Winner of the 2025 Future Edelman Impact Award**
-- Achieved a ~54% reduction in intercompany transfers and a ~3% reduction in total delivery distance
-- Improved customer retention and reduced logistics costs through advanced analytics and optimization
+- 🏆✨ **Winner of the 2025 Future Edelman Impact Award**
+- 🚚🔄 Achieved a ~54% reduction in intercompany transfers and a ~3% reduction in total delivery distance
+- 📈🤝 Improved customer retention and reduced logistics costs through advanced analytics and optimization
 
 ---
 
