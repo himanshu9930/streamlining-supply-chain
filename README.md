@@ -1,5 +1,12 @@
 # Streamlining Supply Chain Dynamics — Empowering Agriculture, Empowering Efficiency
 
+## Project Highlights
+- 🏆 **Winner of the 2025 Future Edelman Impact Award**
+- Achieved a ~54% reduction in intercompany transfers and a ~3% reduction in total delivery distance
+- Improved customer retention and reduced logistics costs through advanced analytics and optimization
+
+---
+
 ## Project and Problem Statement Description
 This project addresses significant inefficiencies in the distribution and fulfillment operations of a major North American seed manufacturer. The main challenges included:
 - Excessive shipments: Customers received multiple fragmented deliveries for orders that could have been consolidated, leading to higher transportation costs and dissatisfaction.
