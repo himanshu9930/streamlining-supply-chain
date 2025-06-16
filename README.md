@@ -39,8 +39,5 @@ See the attached `ProjectPoster.pdf` for a visual summary of the project.
 ## Project Video
 Watch the project video here: [YouTube Link](https://youtu.be/llBVkrbu4IE?si=B4YRfxdni7mXjWat)
 
-## Additional Resources
-- [Award Website](https://krithikraju.framer.website/future-edelman-award)
-
 ---
 *Note: Client and warehouse names have been masked in accordance with NDA requirements.* 
